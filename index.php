@@ -21,7 +21,7 @@
             }   else {
                 // Passed
                 // Recipient Email
-                $toEmail = 'asen@asenivanov.tk';
+                $toEmail = 'test@asenivanov.tk';
                 // Subject
                 $subject = 'Contact Request From '.$name;
                 $body = '<h2>Contact Request</h2>
